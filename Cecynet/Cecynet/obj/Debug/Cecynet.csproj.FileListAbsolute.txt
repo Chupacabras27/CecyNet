@@ -1,0 +1,10 @@
+C:\Users\Pedro\Documents\GitHub\CecyNet\Cecynet\Cecynet\bin\Debug\Cecynet.exe.config
+C:\Users\Pedro\Documents\GitHub\CecyNet\Cecynet\Cecynet\bin\Debug\Cecynet.exe
+C:\Users\Pedro\Documents\GitHub\CecyNet\Cecynet\Cecynet\bin\Debug\Cecynet.pdb
+C:\Users\Pedro\Documents\GitHub\CecyNet\Cecynet\Cecynet\obj\Debug\Cecynet.csprojResolveAssemblyReference.cache
+C:\Users\Pedro\Documents\GitHub\CecyNet\Cecynet\Cecynet\obj\Debug\Cecynet.Form1.resources
+C:\Users\Pedro\Documents\GitHub\CecyNet\Cecynet\Cecynet\obj\Debug\Cecynet.Properties.Resources.resources
+C:\Users\Pedro\Documents\GitHub\CecyNet\Cecynet\Cecynet\obj\Debug\Cecynet.csproj.GenerateResource.Cache
+C:\Users\Pedro\Documents\GitHub\CecyNet\Cecynet\Cecynet\obj\Debug\Cecynet.csproj.CoreCompileInputs.cache
+C:\Users\Pedro\Documents\GitHub\CecyNet\Cecynet\Cecynet\obj\Debug\Cecynet.exe
+C:\Users\Pedro\Documents\GitHub\CecyNet\Cecynet\Cecynet\obj\Debug\Cecynet.pdb
